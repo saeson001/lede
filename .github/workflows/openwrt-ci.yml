@@ -1,32 +1,3 @@
-Skip to content
-￼￼
-Pull requests
-Issues
-Marketplace
-Explore
- 
-￼ 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-Read the guide
-￼
-saeson001
-/
-OpenWrt-CI
-forked from KFERMercer/OpenWrt-CI
- Watch 0
-￼ Star0 Fork2.2k
- Code Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-Branch: master 
-OpenWrt-CI/openwrt-ci.yml
-Find fileCopy path
-￼ KFERMercer adjusting
-1b92bf2 on 16 Dec 2019
-1 contributor
-221 lines (188 sloc)  7.46 KB
-RawBlameHistory
- ￼ ￼
 #
 # This is free software, lisence use MIT.
 # 
@@ -224,15 +195,3 @@ jobs:
         with:
           name: OpenWrt firmware
           path: ./bin/targets/
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
