@@ -19,7 +19,7 @@ forked from KFERMercer/OpenWrt-CI
  Watch 0
 ￼ Star0 Fork2.2k
  Code Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-Branch: master 
+Branch: master
 OpenWrt-CI/openwrt-ci.yml
 Find fileCopy path
 ￼ KFERMercer adjusting
@@ -118,9 +118,9 @@ jobs:
           # 
           # 编译x64固件:
 cat >> .config <<EOF
-CONFIG_TARGET_x86=y
+# CONFIG_TARGET_x86=y
 CONFIG_TARGET_x86_64=y
-CONFIG_TARGET_x86_64_Generic=y
+# CONFIG_TARGET_x86_64_Generic=y
 EOF
           # 固件压缩:
 cat >> .config <<EOF
