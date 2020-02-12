@@ -180,7 +180,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-unblockmusic=y
           CONFIG_PACKAGE_luci-app-upnp=y
           CONFIG_PACKAGE_luci-app-xlnetacc=y
-          CONFIG_PACKAGE_luci-app-luci-i18n-chinese=y
+          # CONFIG_PACKAGE_luci-app-luci-i18n-chinese=y
           EOF
 
           # LuCI主题:
