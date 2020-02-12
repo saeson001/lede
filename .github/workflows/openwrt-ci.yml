@@ -1,3 +1,33 @@
+Skip to content
+￼￼
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+￼ 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+Read the guide
+￼
+saeson001
+/
+lede
+forked from coolsnowwolf/lede
+ Watch 0
+￼ Star0 Fork6.5k
+ Code Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+Branch: master 
+lede/.github/workflows/openwrt-ci.yml
+Find fileCopy path
+￼ saeson001 Update openwrt-ci.yml
+878042e yesterday
+2 contributors
+￼￼
+197 lines (188 sloc)  7.44 KB
+RawBlameHistory
+ ￼ ￼
 #
 # This is free software, lisence use MIT.
 # 
@@ -195,3 +225,15 @@ jobs:
         with:
           name: OpenWrt firmware
           path: ./bin/targets/
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
