@@ -155,7 +155,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-amule=y
           CONFIG_PACKAGE_luci-app-autoreboot=y
           CONFIG_PACKAGE_luci-app-cifsd=y
-          CONFIG_PACKAGE_luci-app-clamav=y
+          # CONFIG_PACKAGE_luci-app-clamav=y
           CONFIG_PACKAGE_luci-app-ddns=y
           CONFIG_PACKAGE_luci-app-dnscrypt-proxy=y
           CONFIG_PACKAGE_luci-app-dnspod=y
