@@ -174,7 +174,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-p910nd=y
           CONFIG_PACKAGE_luci-app-qos=y
           CONFIG_PACKAGE_luci-app-samba=y
-          CONFIG_PACKAGE_luci-app-samba4=y
+          # CONFIG_PACKAGE_luci-app-samba4=y
           CONFIG_PACKAGE_luci-app-ttyd=y
           CONFIG_PACKAGE_luci-app-transmission=y
           CONFIG_PACKAGE_luci-app-unblockmusic=y
